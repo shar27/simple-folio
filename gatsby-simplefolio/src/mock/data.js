@@ -46,6 +46,17 @@ export const projectsData = [
     url: 'https://shar27.github.io/calculator-js/',
     repo: 'https://github.com/shar27/calculator-js', // if no repo, the button will not show up
   },
+
+  {
+    id: nanoid(),
+    img: 'weather.PNG',
+    title: 'Weather App',
+    info: 'A great third project that strengthened my knowledge of using an API',
+    info2: 'Tech used: HTML, CSS, JAVASCRIPT, JSON, WEB API',
+    url: 'https://weather-this.netlify.app/',
+    repo: 'https://github.com/shar27/Weather', // if no repo, the button will not show up
+  },
+  
   {
     id: nanoid(),
     img: 'project.jpg',
