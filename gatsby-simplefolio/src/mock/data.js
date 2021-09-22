@@ -59,7 +59,7 @@ export const projectsData = [
   
   {
     id: nanoid(),
-    img: 'cafeshar.png',
+    img: 'cafeshar.PNG',
     title: 'CafeShar',
     info: 'Cafe site',
     info2: 'Tech used: HTML, CSS, BOOTSTRAP, MATERIALISE ,JAVASCRIPT',
