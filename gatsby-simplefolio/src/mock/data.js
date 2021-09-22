@@ -59,12 +59,12 @@ export const projectsData = [
   
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: 'Coming soon!',
-    info: 'Restaurant page',
-    info2: 'Tech used: HTML, CSS, SASS, JAVASCRIPT, REACT',
-    url: '',
-    repo: '', // if no repo, the button will not show up
+    img: 'cafeshar.png',
+    title: 'CafeShar',
+    info: 'Cafe site',
+    info2: 'Tech used: HTML, CSS, BOOTSTRAP, MATERIALISE ,JAVASCRIPT',
+    url: 'https://cafeshar.netlify.app/',
+    repo: 'https://github.com/shar27/CafeShar', // if no repo, the button will not show up
   },
 ];
 
