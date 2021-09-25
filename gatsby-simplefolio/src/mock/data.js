@@ -21,9 +21,7 @@ export const aboutData = {
   paragraphOne:
     'A motivated, adaptable and responsible individual seeking a position within the IT sector that will utilise the skills I developed during my professional employment and academics',
   paragraphTwo:
-    'I enjoy working on my own initiative or in a team. In short, I am reliable, trustworthy, hardworking and eager to learn and have a genuine interest in IT.',
-  
-  
+    'I enjoy working on my own initiative or in a team. In short, I am reliable, trustworthy, hardworking and eager to learn and have a genuine interest in IT.',    
 };
 
 // PROJECTS DATA
