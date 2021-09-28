@@ -26,25 +26,20 @@ export const aboutData = {
 
 // PROJECTS DATA
 export const projectsData = [
-  {
-    id: nanoid(),
-    img: 'rps.jpg',
-    title: 'My first project',
-    info: 'A great first project that helped solidify javascript foundations',
-    info2: 'Tech used: HTML, CSS, JAVASCRIPT',
-    url: 'https://shar27.github.io/rock-paper-scissors/',
-    repo: 'https://github.com/shar27/rock-paper-scissors', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'calc.jpg',
-    title: 'Second project',
-    info: 'A great second project that strengthened my knowledge',
-    info2: 'Tech used: HTML, CSS, JAVASCRIPT',
-    url: 'https://shar27.github.io/calculator-js/',
-    repo: 'https://github.com/shar27/calculator-js', // if no repo, the button will not show up
-  },
 
+
+  
+  {
+    id: nanoid(),
+    img: 'tesla.PNG',
+    title: 'Tesla-clone',
+    info: 'A tesla clone',
+    info2: 'Tech used: HTML, CSS, JAVASCRIPT, REACT, REDUX',
+    url: 'https://tesla-shar-clone.netlify.app/',
+    repo: 'https://github.com/shar27/tesla-clone', // if no repo, the button will not show up
+  },
+  
+  
   {
     id: nanoid(),
     img: 'weather.PNG',
@@ -64,6 +59,29 @@ export const projectsData = [
     url: 'https://cafeshar.netlify.app/',
     repo: 'https://github.com/shar27/CafeShar', // if no repo, the button will not show up
   },
+
+  {
+    id: nanoid(),
+    img: 'rps.jpg',
+    title: 'My first project',
+    info: 'A great first project that helped solidify javascript foundations',
+    info2: 'Tech used: HTML, CSS, JAVASCRIPT',
+    url: 'https://shar27.github.io/rock-paper-scissors/',
+    repo: 'https://github.com/shar27/rock-paper-scissors', // if no repo, the button will not show up
+  },
+  
+  {
+    id: nanoid(),
+    img: 'calc.jpg',
+    title: 'Second project',
+    info: 'A great second project that strengthened my knowledge',
+    info2: 'Tech used: HTML, CSS, JAVASCRIPT',
+    url: 'https://shar27.github.io/calculator-js/',
+    repo: 'https://github.com/shar27/calculator-js', // if no repo, the button will not show up
+  }
+
+
+
 ];
 
 // CONTACT DATA
