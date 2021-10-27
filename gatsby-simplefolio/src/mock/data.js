@@ -50,15 +50,7 @@ export const projectsData = [
     repo: 'https://github.com/shar27/Weather', // if no repo, the button will not show up
   },
   
-  {
-    id: nanoid(),
-    img: 'cafeshar.PNG',
-    title: 'CafeShar',
-    info: 'Cafe site',
-    info2: 'Tech used: HTML, CSS, BOOTSTRAP, MATERIALISE ,JAVASCRIPT',
-    url: 'https://cafeshar.netlify.app/',
-    repo: 'https://github.com/shar27/CafeShar', // if no repo, the button will not show up
-  },
+
 
   {
     id: nanoid(),
