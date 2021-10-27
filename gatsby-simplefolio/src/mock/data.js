@@ -49,28 +49,6 @@ export const projectsData = [
     url: 'https://weather-this.netlify.app/',
     repo: 'https://github.com/shar27/Weather', // if no repo, the button will not show up
   },
-  
-
-
-  {
-    id: nanoid(),
-    img: 'rps.jpg',
-    title: 'My first project',
-    info: 'A great first project that helped solidify javascript foundations',
-    info2: 'Tech used: HTML, CSS, JAVASCRIPT',
-    url: 'https://shar27.github.io/rock-paper-scissors/',
-    repo: 'https://github.com/shar27/rock-paper-scissors', // if no repo, the button will not show up
-  },
-  
-  {
-    id: nanoid(),
-    img: 'calc.jpg',
-    title: 'Second project',
-    info: 'A great second project that strengthened my knowledge',
-    info2: 'Tech used: HTML, CSS, JAVASCRIPT',
-    url: 'https://shar27.github.io/calculator-js/',
-    repo: 'https://github.com/shar27/calculator-js', // if no repo, the button will not show up
-  }
 
 
 
