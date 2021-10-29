@@ -19,11 +19,13 @@ export const heroData = {
 export const aboutData = {
   img: 'profile-warsaw.jpg',
   paragraphOne:
-    'A motivated, adaptable and responsible individual seeking a position within the IT sector that will utilise the skills I developed during my professional employment and academics. I am a self-taught web developer with a strong background in digital marketing. I specialise in developing websites that are SEO, I do this using a variety of technologies.',
+    'I am a motivated self-taught developer with a strong background in digital marketing. I am highly adaptable and a responsible individual seeking a position within the IT sector',
+     'that will utilise the skills I developed during my professional employment and academics.':
+     'I specialise in developing websites that are SEO, I do this using a variety of technologies.',
   paragraphTwo:
-    'I enjoy working on my own initiative or in a team. In short, I am reliable, trustworthy, hardworking and eager to learn and have a genuine interest in IT.',
-  paragraphThree:
-    'Tech stack: Gatsby, Next.js, Node.js. Firebase, Graphql, Maiclhimp/Hubspot and Webpack',
+  'Tech stack: Gatsby, Next.js, Node.js. Firebase, Graphql, Maiclhimp/Hubspot and Webpack. For payments I like to use stripe.',
+  
+    
 };
 
 // PROJECTS DATA
