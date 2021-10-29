@@ -26,7 +26,6 @@ export const aboutData = {
   paragraphThree: 'I manage everything from the design, development and deployment. No stone is left unturned during this process.', 
   
   paragraphFour: 'I always ensure that my clients are 100% satisfied. Not convinced? drop me an email and we can book in a for a free consultation',
-     
   paragraphFive:
   'Tech stack: Gatsby, React, Next.js, Node.js. Firebase, Graphql, Mailchimp/Hubspot and Webpack. For payments I like to use stripe.',
   
