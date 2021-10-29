@@ -46,16 +46,6 @@ export const projectsData = [
 
   {
     id: nanoid(),
-    img: 'weather.PNG',
-    title: 'Weather App',
-    info: 'An API focused site',
-    info2: 'Tech used: HTML, CSS, JAVASCRIPT, JSON, WEB API',
-    url: 'https://weather-this.netlify.app/',
-    repo: 'https://github.com/shar27/Weather', // if no repo, the button will not show up
-  },
-
-  {
-    id: nanoid(),
     img: 'candles.jpeg',
     title: 'Candles',
     info: 'E-commerce site for candles',
