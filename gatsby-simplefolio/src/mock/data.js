@@ -28,7 +28,7 @@ export const aboutData = {
   paragraphFour: 'I always ensure that my clients are 100% satisfied. Not convinced? drop me an email and we can book in a for a free consultation',
      
   paragraphFive:
-  'Tech stack: Gatsby, React, Next.js, Node.js. Firebase, Graphql, Maiclhimp/Hubspot and Webpack. For payments I like to use stripe.',
+  'Tech stack: Gatsby, React, Next.js, Node.js. Firebase, Graphql, Mailchimp/Hubspot and Webpack. For payments I like to use stripe.',
   
     
 };
