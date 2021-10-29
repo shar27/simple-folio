@@ -19,16 +19,15 @@ export const heroData = {
 export const aboutData = {
   img: 'profile-warsaw.jpg',
   paragraphOne:
-    'A motivated, adaptable and responsible individual seeking a position within the IT sector that will utilise the skills I developed during my professional employment and academics',
+    'A motivated, adaptable and responsible individual seeking a position within the IT sector that will utilise the skills I developed during my professional employment and academics. I am a self-taught web developer with a strong background in digital marketing. I specialise in developing websites that are SEO, I do this using a variety of technologies.',
   paragraphTwo:
-    'I enjoy working on my own initiative or in a team. In short, I am reliable, trustworthy, hardworking and eager to learn and have a genuine interest in IT.',    
+    'I enjoy working on my own initiative or in a team. In short, I am reliable, trustworthy, hardworking and eager to learn and have a genuine interest in IT.',
+  paragraphThree:
+    'Tech stack: Gatsby, Next.js, Node.js. Firebase, Graphql, Maiclhimp/Hubspot and Webpack',
 };
 
 // PROJECTS DATA
 export const projectsData = [
-
-
-  
   {
     id: nanoid(),
     img: 'tesla.PNG',
@@ -38,8 +37,7 @@ export const projectsData = [
     url: 'https://tesla-shar-clone.netlify.app/',
     repo: 'https://github.com/shar27/tesla-clone', // if no repo, the button will not show up
   },
-  
-  
+
   {
     id: nanoid(),
     img: 'weather.PNG',
@@ -49,9 +47,6 @@ export const projectsData = [
     url: 'https://weather-this.netlify.app/',
     repo: 'https://github.com/shar27/Weather', // if no repo, the button will not show up
   },
-
-
-
 ];
 
 // CONTACT DATA
