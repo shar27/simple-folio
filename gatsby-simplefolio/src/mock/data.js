@@ -3,27 +3,32 @@ import { nanoid } from 'nanoid';
 // HEAD DATA
 export const headData = {
   title: 'Shar|Developer', // e.g: 'Name | Developer'
-  lang: 'English(Native), Punjabi(Fleunt), Urdu (B1), Spanish (A2), Polsih (A1), Mandarin (HSK2)', // e.g: en, es, fr, jp
-  description: 'Welcome to my site, I am a self-taught developer', // e.g: Welcome to my website
+  lang: 'English(Native), Punjabi(Fleunt), Urdu (B1), Spanish (A2), Polish (A1), Mandarin (HSK2)', // e.g: en, es, fr, jp
+  description: 'Welcome to my site, I am a front end developer', // e.g: Welcome to my website
 };
 
 // HERO DATA
 export const heroData = {
   title: '',
   name: 'Shar',
-  subtitle: 'I am self-taught web-developer',
-  cta: '',
+  subtitle: 'I am front-end web developer',
+  cta: 'you can reach me here - shariq.ahmed@hotmail.co.uk',
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: 'profile-warsaw.jpg',
   paragraphOne:
-    'I am a motivated self-taught developer with a strong background in digital marketing. I am highly adaptable and a responsible individual seeking a position within the IT sector',
-     'that will utilise the skills I developed during my professional employment and academics.':
-     'I specialise in developing websites that are SEO, I do this using a variety of technologies.',
-  paragraphTwo:
-  'Tech stack: Gatsby, Next.js, Node.js. Firebase, Graphql, Maiclhimp/Hubspot and Webpack. For payments I like to use stripe.',
+    'I am a UK front-end developer based in Poznan, Poland. I have a strong background in digital marketing as well as web development.',
+  
+  paragraphTwo:  'I specialise in developing websites that are SEO, I do this using a variety of technologies. Gatsby/React and Next.js are my usuals.',
+     
+  paragraphThree: 'I manage everything from the design, development and deployment. No stone is left unturned during this process.', 
+  
+  paragraphFour: 'I always ensure that my clients are 100% satisfied. Not convinced? drop me an email and we can book in a for a free consultation',
+     
+  paragraphFive:
+  'Tech stack: Gatsby, React, Next.js, Node.js. Firebase, Graphql, Maiclhimp/Hubspot and Webpack. For payments I like to use stripe.',
   
     
 };
@@ -44,10 +49,20 @@ export const projectsData = [
     id: nanoid(),
     img: 'weather.PNG',
     title: 'Weather App',
-    info: 'A great third project that strengthened my knowledge of using an API',
+    info: 'An API focused site',
     info2: 'Tech used: HTML, CSS, JAVASCRIPT, JSON, WEB API',
     url: 'https://weather-this.netlify.app/',
     repo: 'https://github.com/shar27/Weather', // if no repo, the button will not show up
+  },
+
+  {
+    id: nanoid(),
+    img: 'candles.jpeg',
+    title: 'Candles',
+    info: 'E-commerce site for candles',
+    info2: 'Tech used: React & Gatsby',
+    url: '',
+    repo: '', // if no repo, the button will not show up
   },
 ];
 
